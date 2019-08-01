@@ -8,7 +8,7 @@ In PyCharm open requirements.txt and press "install requirements"
 
 3. Run python HTTP server
 Execute main.py
-(see screenshot 4)
+(see screenshot 3)
 
 4. Done!
 Open in browser http://localhost:8000
