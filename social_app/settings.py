@@ -25,8 +25,7 @@ SECRET_KEY = 'm-xphssvwao4e@l_up7trezkx1()z2t_2xg3&9!#vab85my!m%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['srv102.ixioo.com']
 
 # Application definition
 
@@ -155,3 +154,4 @@ SOCIAL_AUTH_FACEBOOK_EXTRA_DATA = [
 
 SOCIAL_AUTH_GOOGLE_OAUTH2_KEY ="734721106238-ep1ulk8i5coriiv72t73t1ir7essrltk.apps.googleusercontent.com"
 SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = "ljTWB_iZTUEQrNcJyh0d_J5h"
+
