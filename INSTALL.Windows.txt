@@ -1,0 +1,14 @@
+1. Run PyCharm
+Fetch source code from GitHub: https://github.com/vitalfadeev/social_site.git
+(see screenshot 1)
+
+2. Install requirements
+In PyCharm open requirements.txt and press "install requirements"
+(see screenshot 2)
+
+3. Run python HTTP server
+Execute main.py
+(see screenshot 4)
+
+4. Done!
+Open in browser http://localhost:8000
