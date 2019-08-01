@@ -1,3 +1,4 @@
+###Installing on Windows
 1. Run PyCharm
 Fetch source code from GitHub: https://github.com/vitalfadeev/social_site.git
 (see screenshot 1)
