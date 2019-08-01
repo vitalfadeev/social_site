@@ -1,0 +1,17 @@
+1. Create virtual environment
+python3 -m venv venv
+
+2. Activate
+cd venv
+source bin/activate
+
+3. Get requirements
+pip -r requirements.txt
+
+4. Fetch site sources
+git clone https://github.com/vitalfadeev/social_site.git social_site
+
+5. Run python HTTP server
+cd social_site
+python manage.py runserver
+
